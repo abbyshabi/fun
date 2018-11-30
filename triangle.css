@@ -1,6 +1,6 @@
 body{
 	background:white;
-	background-image: url(fun.jpg);
+	background-image: url(triangle.jpg);
 	background-filter:alpha;
 	/*opacity=0.6;*/
 	align-content: center;
@@ -43,7 +43,7 @@ p{
 
 }
 .box-1{
- 	background-color:#40bf80;
+ 	background-color: #ff751a;
  	color: white;
  	border: white solid;
  	padding: 20PX;
@@ -52,7 +52,7 @@ p{
  	
  }
 .box-2{
-	background-color:#40bf80;
+	background-color: #ff751a;
  	color: white;
  	border: white solid;
  	padding: 20PX;
@@ -60,7 +60,7 @@ p{
  	margin:50px;
 }
 .box-3{
-	background-color: #40bf80;
+	background-color:  #ff751a;
  	color: white;
  	border: white solid;
  	padding: 20PX;
@@ -68,7 +68,7 @@ p{
  	margin:50px;
  }
  .box-4{
- 	background-color:#40bf80;
+ 	background-color: #ff751a;
  	color: white;
  	border: white solid;
  	padding: 20PX;
@@ -91,5 +91,13 @@ p{
     height:50px;
     border-radius: 25%;
      color:#4d2600;
+}
+#aValue, #bValue, #cValue{
+	padding: 5px;
+	font-size: 20px;
+} 
+#answer{
+	padding: 5px;
+	font-size: 20px;
 }
  
